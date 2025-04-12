@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on evanwright.dev</title>
+    <link>http://localhost:64430/blog/</link>
+    <description>Recent content in Blog on evanwright.dev</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Evan Wright.</copyright>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:64430/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome To My New Blog!</title>
+      <link>http://localhost:64430/welcome-to-my-new-blog/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64430/welcome-to-my-new-blog/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Γειά σου! Welcome to my first blog post.&#xA;This is something I feel has been a long time coming. I’ve been an avid programmer since I was a kid, and I’ve also always had somewhat of a knack for writing. So it only makes sense that I combine the two loves and make a somewhat precarious lovechild — my own blog.&lt;/p&gt;&#xA;&lt;p&gt;I’ve considered setting up a blog for years but never followed through for two main reasons.&#xA;The first (and primary) reason was that I didn’t know if I’d be able to stay active. My fear was that my blog would eventually end up like most of the others I’d seen on the internet: the last post from five years ago, and everything completely silent. And truth is, I&amp;rsquo;m still unsure if I can keep up.&#xA;The second reason was that I was hell-bent on designing a custom site from scratch and didn’t wanted to avoid using any kind of “template.” That only made things more complicated and ended up being a huge demotivator, especially since I already wasn’t sure I’d have the inclination to write consistently in the first place.&#xA;So needless to say, I’ve trashed that requirement. And the great news? This blog is built with Hugo and without trying to sound like an ad, it really did make everything seamless. All I had to do was set up my theme and boom: it works. Pretty neat if I do say so myself!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
