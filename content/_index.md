@@ -5,11 +5,11 @@
 title = "Home"
 +++
 
-# Hi, I'm Evan!
+# Hi, I'm Evan! 👋
 
-I'm a **software engineer** adept in a wide range of technologies and stacks. I absolutely love learning new tech and solving difficult problems along the way. I'm also an **enthusiast** of early Christianity and enjoy reading and studying the Gospels and history surrounding the earliest Christians.
+I'm a **software engineer** adept in a wide range of technologies and stacks. I absolutely love learning new tech and solving difficult problems along the way.
 
-#### Check out my bookshelf [here](/bookshelf)!
+I'm also an **enthusiast** of early Christianity and enjoy [reading](/bookshelf) and studying the Gospels and history surrounding the earliest Christians.
 
 ---
 

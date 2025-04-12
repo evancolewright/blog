@@ -1,5 +1,5 @@
 +++
-title = "Welcome To My New Blog!"
+title = "Welcome To The Shit Show"
 date = "2025-04-12"
 description = "An introduction to how this blog happened and what I'll be posting..."
 tags = [
